@@ -1,0 +1,67 @@
+﻿  main.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29910\include\vector(1757,29): warning C4251: 'std::vector<S2D::Input::Keys,std::allocator<S2D::Input::Keys>>::_Mypair': class 'std::_Compressed_pair<std::allocator<S2D::Input::Keys>,std::_Vector_val<std::_Simple_types<_Ty>>,true>' needs to have dll-interface to be used by clients of class 'std::vector<S2D::Input::Keys,std::allocator<S2D::Input::Keys>>'
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29910\include\vector(1757): message : see declaration of 'std::_Compressed_pair<std::allocator<S2D::Input::Keys>,std::_Vector_val<std::_Simple_types<_Ty>>,true>'
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+C:\Users\h020419l\Downloads\PacmanFramework-RH-M2\PacmanFramework-RH-M2\Pacman\Pacman\S2D\Input.h(108): message : see reference to class template instantiation 'std::vector<S2D::Input::Keys,std::allocator<S2D::Input::Keys>>' being compiled
+  Pacman.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29910\include\vector(1757,29): warning C4251: 'std::vector<S2D::Input::Keys,std::allocator<S2D::Input::Keys>>::_Mypair': class 'std::_Compressed_pair<std::allocator<S2D::Input::Keys>,std::_Vector_val<std::_Simple_types<_Ty>>,true>' needs to have dll-interface to be used by clients of class 'std::vector<S2D::Input::Keys,std::allocator<S2D::Input::Keys>>'
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29910\include\vector(1757): message : see declaration of 'std::_Compressed_pair<std::allocator<S2D::Input::Keys>,std::_Vector_val<std::_Simple_types<_Ty>>,true>'
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+C:\Users\h020419l\Downloads\PacmanFramework-RH-M2\PacmanFramework-RH-M2\Pacman\Pacman\S2D\Input.h(108): message : see reference to class template instantiation 'std::vector<S2D::Input::Keys,std::allocator<S2D::Input::Keys>>' being compiled
+C:\Users\h020419l\Downloads\PacmanFramework-RH-M2\PacmanFramework-RH-M2\Pacman\Pacman\Pacman.cpp(87,20): warning C4154: deletion of an array expression; conversion to pointer supplied
+C:\Users\h020419l\Downloads\PacmanFramework-RH-M2\PacmanFramework-RH-M2\Pacman\Pacman\Pacman.cpp(126,91): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\h020419l\Downloads\PacmanFramework-RH-M2\PacmanFramework-RH-M2\Pacman\Pacman\Pacman.cpp(126,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\h020419l\Downloads\PacmanFramework-RH-M2\PacmanFramework-RH-M2\Pacman\Pacman\Pacman.cpp(142,89): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\h020419l\Downloads\PacmanFramework-RH-M2\PacmanFramework-RH-M2\Pacman\Pacman\Pacman.cpp(142,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\h020419l\Downloads\PacmanFramework-RH-M2\PacmanFramework-RH-M2\Pacman\Pacman\Pacman.cpp(286,54): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\h020419l\Downloads\PacmanFramework-RH-M2\PacmanFramework-RH-M2\Pacman\Pacman\Pacman.cpp(295,55): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\h020419l\Downloads\PacmanFramework-RH-M2\PacmanFramework-RH-M2\Pacman\Pacman\Pacman.cpp(308,54): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\h020419l\Downloads\PacmanFramework-RH-M2\PacmanFramework-RH-M2\Pacman\Pacman\Pacman.cpp(331,65): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\h020419l\Downloads\PacmanFramework-RH-M2\PacmanFramework-RH-M2\Pacman\Pacman\Pacman.cpp(382,62): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\h020419l\Downloads\PacmanFramework-RH-M2\PacmanFramework-RH-M2\Pacman\Pacman\Pacman.cpp(395,61): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\h020419l\Downloads\PacmanFramework-RH-M2\PacmanFramework-RH-M2\Pacman\Pacman\Pacman.cpp(405,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\h020419l\Downloads\PacmanFramework-RH-M2\PacmanFramework-RH-M2\Pacman\Pacman\Pacman.cpp(410,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\h020419l\Downloads\PacmanFramework-RH-M2\PacmanFramework-RH-M2\Pacman\Pacman\Pacman.cpp(415,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\h020419l\Downloads\PacmanFramework-RH-M2\PacmanFramework-RH-M2\Pacman\Pacman\Pacman.cpp(420,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\h020419l\Downloads\PacmanFramework-RH-M2\PacmanFramework-RH-M2\Pacman\Pacman\Pacman.cpp(428,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\h020419l\Downloads\PacmanFramework-RH-M2\PacmanFramework-RH-M2\Pacman\Pacman\Pacman.cpp(430,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\h020419l\Downloads\PacmanFramework-RH-M2\PacmanFramework-RH-M2\Pacman\Pacman\Pacman.cpp(432,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\h020419l\Downloads\PacmanFramework-RH-M2\PacmanFramework-RH-M2\Pacman\Pacman\Pacman.cpp(434,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\h020419l\Downloads\PacmanFramework-RH-M2\PacmanFramework-RH-M2\Pacman\Pacman\Pacman.cpp(440,39): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\h020419l\Downloads\PacmanFramework-RH-M2\PacmanFramework-RH-M2\Pacman\Pacman\Pacman.cpp(441,33): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\h020419l\Downloads\PacmanFramework-RH-M2\PacmanFramework-RH-M2\Pacman\Pacman\Pacman.cpp(442,38): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\h020419l\Downloads\PacmanFramework-RH-M2\PacmanFramework-RH-M2\Pacman\Pacman\Pacman.cpp(443,32): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\h020419l\Downloads\PacmanFramework-RH-M2\PacmanFramework-RH-M2\Pacman\Pacman\Pacman.cpp(466,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\h020419l\Downloads\PacmanFramework-RH-M2\PacmanFramework-RH-M2\Pacman\Pacman\Pacman.cpp(468,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\h020419l\Downloads\PacmanFramework-RH-M2\PacmanFramework-RH-M2\Pacman\Pacman\Pacman.cpp(470,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\h020419l\Downloads\PacmanFramework-RH-M2\PacmanFramework-RH-M2\Pacman\Pacman\Pacman.cpp(472,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\h020419l\Downloads\PacmanFramework-RH-M2\PacmanFramework-RH-M2\Pacman\Pacman\Pacman.cpp(478,34): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\h020419l\Downloads\PacmanFramework-RH-M2\PacmanFramework-RH-M2\Pacman\Pacman\Pacman.cpp(479,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\h020419l\Downloads\PacmanFramework-RH-M2\PacmanFramework-RH-M2\Pacman\Pacman\Pacman.cpp(480,33): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\h020419l\Downloads\PacmanFramework-RH-M2\PacmanFramework-RH-M2\Pacman\Pacman\Pacman.cpp(481,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\h020419l\Downloads\PacmanFramework-RH-M2\PacmanFramework-RH-M2\Pacman\Pacman\Pacman.cpp(487,87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\h020419l\Downloads\PacmanFramework-RH-M2\PacmanFramework-RH-M2\Pacman\Pacman\Pacman.cpp(487,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\h020419l\Downloads\PacmanFramework-RH-M2\PacmanFramework-RH-M2\Pacman\Pacman\Pacman.cpp(497,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\h020419l\Downloads\PacmanFramework-RH-M2\PacmanFramework-RH-M2\Pacman\Pacman\Pacman.cpp(499,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\h020419l\Downloads\PacmanFramework-RH-M2\PacmanFramework-RH-M2\Pacman\Pacman\Pacman.cpp(501,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\h020419l\Downloads\PacmanFramework-RH-M2\PacmanFramework-RH-M2\Pacman\Pacman\Pacman.cpp(503,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\h020419l\Downloads\PacmanFramework-RH-M2\PacmanFramework-RH-M2\Pacman\Pacman\Pacman.cpp(509,37): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\h020419l\Downloads\PacmanFramework-RH-M2\PacmanFramework-RH-M2\Pacman\Pacman\Pacman.cpp(510,31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\h020419l\Downloads\PacmanFramework-RH-M2\PacmanFramework-RH-M2\Pacman\Pacman\Pacman.cpp(511,36): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\h020419l\Downloads\PacmanFramework-RH-M2\PacmanFramework-RH-M2\Pacman\Pacman\Pacman.cpp(512,30): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  Pacman.vcxproj -> C:\Users\h020419l\Downloads\PacmanFramework-RH-M2\PacmanFramework-RH-M2\Pacman\Debug\Pacman.exe
